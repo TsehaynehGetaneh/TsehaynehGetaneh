@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Web Development, Data Structure and Algorithms, Competitive Programming and many more!**
 
-- 📫 How to reach me **tsigsg@gmail.com**
+- 📫 How to reach me **tsehayneh.sinishaw@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
