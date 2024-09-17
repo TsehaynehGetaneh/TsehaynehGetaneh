@@ -46,7 +46,7 @@ A **Full Stack Developer and Competitive Programmer!**
  
  [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=TsehaynehGetaneh&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
-[![Dema Amano's current streak](https://streak-stats.demolab.com/?user=TsehaynehGetaneh&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+[![Tsehayneh's current streak](https://streak-stats.demolab.com/?user=TsehaynehGetaneh&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
